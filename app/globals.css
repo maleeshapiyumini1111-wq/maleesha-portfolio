@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { background: #0a0a0a; color: #e5e7eb; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { animation: none !important; } }
+
+.glass { @apply backdrop-blur-md bg-white/5 border border-white/10; }
+.tag { @apply font-mono text-xs px-2.5 py-1 rounded-md bg-electric/10 text-blue-300 border border-electric/20; }
+.section { @apply mx-auto max-w-6xl px-5 py-24 scroll-mt-16; }
+.h2 { @apply text-3xl md:text-4xl font-bold tracking-tight text-white; }
+.grad { @apply bg-gradient-to-r from-electric to-neon bg-clip-text text-transparent; }
