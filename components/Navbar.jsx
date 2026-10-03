@@ -4,10 +4,11 @@ import { motion } from "framer-motion";
 
 const links = [
   { label: "Home", href: "#home", id: "home" },
-  { label: "AI Research & Projects", href: "#projects", id: "projects" },
+  { label: "Projects", href: "#projects", id: "projects" },
   { label: "Skills", href: "#skills", id: "skills" },
-  { label: "Contact", href: "#contact", id: "contact" },
   { label: "Freelancing", href: "#creative", id: "creative" },
+  { label: "Contact", href: "#contact", id: "contact" },
+  
 ];
 
 export default function Navbar() {

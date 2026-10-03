@@ -18,8 +18,8 @@ const projects = [
     stack: ["Python", "OpenCV", "MediaPipe Face Mesh", "Pygame", "Proteus"],
     summary: "Engineered an edge computer vision application detecting drowsiness and cognitive distraction via 468 facial landmarks and OpenCV at 30+ FPS with EAR/MAR alerts.",
     links: [
-      { label: "GitHub", href: "https://github.com/maleeshapiyumini111-wq/vigildrive-ai", icon: Github },
-      { label: "Live Demo", href: "#", icon: ExternalLink }
+      { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq/vigildrive-ai", icon: Github },
+      
     ],
   },
   {
@@ -29,7 +29,7 @@ const projects = [
     stack: ["FastAPI", "PyTorch", "SadTalker", "Librosa"],
     summary: "Developed an end-to-end Generative AI pipeline utilizing deep learning to synthesize lip-synced facial animations directly from audio clips, deployed via an asynchronous FastAPI backend.",
     links: [
-      { label: "GitHub", href: "https://github.com/maleeshapiyumini111-wq/Voice-to-Animated-Talking-Avatar-Generator", icon: Github }
+      { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq/Voice-to-Animated-Talking-Avatar-Generator", icon: Github }
     ],
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     stack: ["React", "Node.js", "Python NLP", "REST APIs"],
     summary: "Built a career-matching platform analyzing profiles across 7+ industries to generate dynamic skill-gap roadmaps via NLP algorithms.",
     links: [
-      { label: "GitHub", href: "https://github.com/maleeshapiyumini111-wq/AI-powered-Career-Guidance-platform-from-scratch", icon: Github }
+      { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq/AI-powered-Career-Guidance-platform-from-scratch", icon: Github }
     ],
   },
   {
@@ -49,7 +49,7 @@ const projects = [
     stack: ["JavaScript", "React", "Node.js", "Web Security"],
     summary: "Architected a scalable hybrid web platform offering anonymous crisis assistance and secure evidence logging for cyberbullying victims.",
     links: [
-      { label: "GitHub", href: "https://github.com/maleeshapiyumini111-wq/AI-Powered-Anonymous-Crisis-Intervention-Evidence-Platform", icon: Github }
+      { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq/AI-Powered-Anonymous-Crisis-Intervention-Evidence-Platform", icon: Github }
     ],
   },
   {
@@ -61,7 +61,7 @@ const projects = [
     role: "Admin Dashboard Architecture, Communication Systems, and Complex Data Report Generation.",
     summary: "Architecting the data and reporting layer for an enterprise microservices platform that streamlines surplus food redistribution through real-time donor-receiver matching.",
     links: [
-      { label: "GitHub", href: "https://github.com/maleeshapiyumini111-wq", icon: Github }
+      { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq", icon: Github }
     ],
   },
 ];

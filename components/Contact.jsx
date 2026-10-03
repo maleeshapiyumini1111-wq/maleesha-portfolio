@@ -39,7 +39,7 @@ export default function Contact() {
           <p className="flex items-center gap-3 text-gray-300"><MapPin className="text-electric" size={18} /> Colombo, Sri Lanka</p>
           <a href={`mailto:${EMAIL}`} className="flex items-center gap-3 break-all text-gray-300 transition hover:text-white"><Mail className="text-neon" size={18} /> {EMAIL}</a>
           <div className="flex gap-3 pt-2">
-            <a href="www.linkedin.com/in/maleesha-piyumini-710b5a311" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-lg border border-white/10 px-4 py-2 text-sm text-gray-200 transition hover:border-electric hover:text-white"><Linkedin size={16} /> LinkedIn</a>
+            <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BL0yHx8%2BDTUetmBUHt7cA%2FQ%3D%3D" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-lg border border-white/10 px-4 py-2 text-sm text-gray-200 transition hover:border-electric hover:text-white"><Linkedin size={16} /> LinkedIn</a>
             <a href="https://github.com/maleeshapiyumini1111-wq" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-lg border border-white/10 px-4 py-2 text-sm text-gray-200 transition hover:border-neon hover:text-white"><Github size={16} /> GitHub</a>
           </div>
         </div>

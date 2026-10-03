@@ -51,7 +51,7 @@ export default function Hero() {
             <div className="flex gap-2">
               <a 
                 aria-label="GitHub" 
-                href="https://github.com/maleeshapiyumini111-wq" 
+                href="https://github.com/maleeshapiyumini1111-wq" 
                 target="_blank" 
                 rel="noreferrer" 
                 className="glass rounded-xl p-3 text-gray-300 transition hover:text-white hover:shadow-glowBlue"
@@ -60,7 +60,7 @@ export default function Hero() {
               </a>
               <a 
                 aria-label="LinkedIn" 
-                href="https://linkedin.com/in/maleesha-piyumini" 
+                href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BL0yHx8%2BDTUetmBUHt7cA%2FQ%3D%3D" 
                 target="_blank" 
                 rel="noreferrer" 
                 className="glass rounded-xl p-3 text-gray-300 transition hover:text-white hover:shadow-glowPurple"
