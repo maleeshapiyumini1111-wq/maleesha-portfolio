@@ -53,7 +53,7 @@ const projects = [
     ],
   },
   {
-    title: "Zero Waste – Smart Surplus Food Redistribution Platform",
+    title: "Zero Waste – Smart Surplus Food Redistribution Platform(Final Year Project)",
     status: "Ongoing",
     icon: Leaf,
     ongoing: true,
