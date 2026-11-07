@@ -15,7 +15,10 @@ export default function Education() {
           <GraduationCap className="text-electric" />
           <h3 className="mt-4 font-semibold text-white">NDT in Information Technology</h3>
           <p className="mt-1 text-sm text-gray-400">Institute of Technology, University of Moratuwa (ITUM)</p>
-          <span className="tag mt-4 inline-block">Expected 2027</span>
+          <div className="mt-4 flex flex-wrap gap-2">
+            <span className="tag">Expected 2027</span>
+            <span className="tag">Current GPA: 3.31</span>
+          </div>
         </motion.div>
         <motion.div initial={{ opacity: 0, y: 24 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: 0.1 }} className="glass rounded-2xl p-6">
           <Award className="text-neon" />

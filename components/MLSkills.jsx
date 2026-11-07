@@ -1,13 +1,14 @@
 "use client";
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { BrainCircuit, Server, Database, Wrench } from "lucide-react";
+import { Code2, BrainCircuit, Server, Database, Wrench } from "lucide-react";
 
 const groups = [
+  { title: "Programming Languages", icon: Code2, items: ["Python", "Java", "JavaScript", "SQL"] },
   { title: "AI, ML & Computer Vision", icon: BrainCircuit, items: ["PyTorch", "OpenCV", "MediaPipe", "DeepFace", "Librosa", "SadTalker", "Applied Data Science", "NLP"] },
-  { title: "Backend & MLOps", icon: Server, items: ["Python", "FastAPI", "Flask", "Spring Boot", "Node.js", "RESTful APIs"] },
+  { title: "Frameworks & Backend", icon: Server, items: ["Spring Boot", "React", "Node.js", "FastAPI", "Flask", "RESTful APIs"] },
   { title: "Databases & Architecture", icon: Database, items: ["MySQL", "MongoDB", "Microservices", "Data Reporting"] },
-  { title: "Tools", icon: Wrench, items: ["Git", "GitHub", "Postman", "Linux"] },
+  { title: "Tools", icon: Wrench, items: ["Git", "GitHub", "Postman"] },
 ];
 
 export default function MLSkills() {

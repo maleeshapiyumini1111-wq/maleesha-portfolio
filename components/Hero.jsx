@@ -19,7 +19,7 @@ export default function Hero() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-75" />
               <span className="relative inline-flex h-2 w-2 rounded-full bg-green-400" />
             </span>
-            Open to Machine Learning &amp; AI Engineering Internships
+            Open to Software Engineering &amp; Machine Learning Internships
           </motion.span>
 
           <motion.h1 variants={rise} className="mt-6 text-4xl sm:text-6xl font-extrabold tracking-tight text-white leading-tight">
@@ -28,10 +28,10 @@ export default function Hero() {
           </motion.h1>
 
           <motion.p variants={rise} className="mt-4 font-mono text-base sm:text-lg text-blue-300">
-            Machine Learning &amp; AI Engineering Undergraduate
+            Software Engineering &amp; Machine Learning Intern
           </motion.p>
           <motion.p variants={rise} className="mt-4 max-w-xl text-base sm:text-lg text-gray-400">
-            Specializing in Computer Vision, Generative AI, and Scalable Backend Architectures.
+            Building full-stack applications, scalable backend architectures, and computer vision &amp; generative AI solutions.
           </motion.p>
 
           <motion.div variants={rise} className="mt-8 flex flex-wrap items-center gap-4">
@@ -39,7 +39,7 @@ export default function Hero() {
               href="#projects" 
               className="rounded-xl bg-gradient-to-r from-electric to-neon px-6 py-3 font-semibold text-white shadow-glowBlue transition hover:shadow-glowPurple hover:scale-[1.03] focus-visible:outline focus-visible:outline-2 focus-visible:outline-white"
             >
-              Explore AI Projects
+              Explore Projects
             </a>
             <a 
               href="/resume.pdf" 
