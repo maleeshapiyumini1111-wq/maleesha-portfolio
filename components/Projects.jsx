@@ -8,6 +8,7 @@ import {
   Briefcase,
   ShieldAlert,
   Flower2,
+  Film,
   Code2,
   BrainCircuit
 } from "lucide-react";
@@ -25,7 +26,7 @@ const categories = [
         role: "Admin Dashboard, Communication Module, and Report Generation Module.",
         summary: "Built the admin dashboard, communication module and report generation module for a microservices platform that streamlines surplus food redistribution through real-time donor-receiver matching.",
         links: [
-          { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq", icon: Github }
+          { label: "GitHub", href: "https://github.com/dgdasun/FoodRedistributionSystem", icon: Github }
         ],
       },
       {
@@ -82,6 +83,16 @@ const categories = [
         summary: "Developed an end-to-end Generative AI pipeline utilizing deep learning to synthesize lip-synced facial animations directly from audio clips, deployed via an asynchronous FastAPI backend.",
         links: [
           { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq/Voice-to-Animated-Talking-Avatar-Generator", icon: Github }
+        ],
+      },
+      {
+        title: "CineMatch AI – Movie Discovery & Recommendation Platform",
+        status: "Recommender System",
+        icon: Film,
+        stack: ["Python", "Streamlit", "TMDb API", "Custom CSS"],
+        summary: "Built a Netflix-style movie discovery app with smart search, content-based recommendations of up to 12 similar movies, genre browsing tabs and an interactive 5-star rating system, powered by real-time TMDb data.",
+        links: [
+          { label: "GitHub", href: "https://github.com/maleeshapiyumini1111-wq/CINEMATCH-AI", icon: Github }
         ],
       },
     ],
