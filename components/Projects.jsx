@@ -22,7 +22,7 @@ const categories = [
         title: "Zero Waste – Smart Surplus Food Redistribution Platform (Final Year Project)",
         status: "Completed",
         icon: Leaf,
-        stack: ["React", "Spring Boot", "MySQL", "Microservices"],
+        stack: ["React", "Spring Boot", "Microservices"],
         role: "Admin Dashboard, Communication Module, and Report Generation Module.",
         summary: "Built the admin dashboard, communication module and report generation module for a microservices platform that streamlines surplus food redistribution through real-time donor-receiver matching.",
         links: [
